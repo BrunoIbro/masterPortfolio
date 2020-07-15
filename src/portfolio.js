@@ -8,7 +8,7 @@ const settings = {
 
 //Home Page
 const greeting = {
-	title: "Ashutosh Hathidara",
+	title: "Bruno Ibro",
 	logo_name: "AshutoshHathidara",
 	nickname: "layman_brother",
 	subTitle:
